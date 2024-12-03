@@ -5,7 +5,6 @@ vendor/
 .idea/
 config/sync
 .vscode/
-docs/
 lottery_files/
 oauth_keys/
 
@@ -45,3 +44,9 @@ ehthumbs.db
 .bash_history
 .bashrc
 errors.log
+
+docs/_site
+docs/.sass-cache
+docs/.jekyll-cache
+docs/.jekyll-metadata
+docs/vendor

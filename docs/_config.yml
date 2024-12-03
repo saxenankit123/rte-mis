@@ -1,0 +1,5 @@
+theme: just-the-docs
+title : RTE-MIS Documentation
+logo: "/assets/images/IA_Bhopu.png"
+favicon_ico: "/assets/images/rte_mis.ico"
+nav_enabled: true
